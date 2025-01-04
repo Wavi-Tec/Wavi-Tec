@@ -19,5 +19,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-📌 Mis estadisticas:
+📌 Mis estadisticas: </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wavi-Tec&show_icons=true&theme=radical)
