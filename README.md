@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Gif de Programación">
 </div>
 
-👨‍💻Desarrollador apasionado por la tecnología y las soluciones creativas.
-💼Actualmente trabajo en proyectos de desarrollo web con **React** y **Node.js**.
-🌱Siempre aprendiendo algo nuevo, ahora explorando el mundo del **Machine Learning**.
+👨‍💻Desarrollador apasionado por la tecnología y las soluciones creativas.</br>
+💼Actualmente trabajo en proyectos de desarrollo web con **React** y **Node.js**.</br>
+🌱Siempre aprendiendo algo nuevo, ahora explorando el mundo del **Machine Learning**.</br>
 🚀Mis tecnologías favoritas:
 
 <div align="left">
